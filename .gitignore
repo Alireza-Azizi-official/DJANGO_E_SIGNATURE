@@ -1,0 +1,3 @@
+core/*.env
+contracts/docusgin_config.py
+contracts/docusgin_auth.py
